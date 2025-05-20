@@ -8,14 +8,14 @@ I tested on a few languages like Python, JS, C, C++, Json, and Markdown.This is 
 ![Scrolling Images Of Theme](https://imgur.com/a/PiIoBRb)
 
 # Primary Colors
-| Hex Code | Color Preview                    |
-|----------|---------------------------------|
-| #18142e  | <span style="background:#18142e; padding:5px 20px; display:inline-block;"></span> |
-| #282344  | <span style="background:#282344; padding:5px 20px; display:inline-block;"></span> |
-| #dfdfdf  | <span style="background:#dfdfdf; padding:5px 20px; display:inline-block;"></span> |
-| #f45b69  | <span style="background:#f45b69; padding:5px 20px; display:inline-block;"></span> |
-| #ffb22d  | <span style="background:#ffb22d; padding:5px 20px; display:inline-block;"></span> |
-| #17d751  | <span style="background:#17d751; padding:5px 20px; display:inline-block;"></span> |
-| #9082e2  | <span style="background:#9082e2; padding:5px 20px; display:inline-block;"></span> |
-| #362c71  | <span style="background:#362c71; padding:5px 20px; display:inline-block;"></span> |
-| #78afe3  | <span style="background:#78afe3; padding:5px 20px; display:inline-block;"></span> |
+| Hex Code |
+|----------|
+| #18142e  |
+| #282344  |
+| #dfdfdf  |
+| #f45b69  |
+| #ffb22d  |
+| #17d751  |
+| #9082e2  |
+| #362c71  |
+| #78afe3  |
