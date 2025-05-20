@@ -5,7 +5,7 @@ I tested on a few languages like Python, JS, C, C++, Json, and Markdown.This is 
 
 # Examples
 
-![Scrolling Images Of Theme](https://imgur.com/a/PiIoBRb)
+![Scrolling Images Of Theme](https://i.imgur.com/huUhf1T.gif)
 
 # Primary Colors
 | Hex Code |
