@@ -1,8 +1,11 @@
 {
   "name": "roller-rink",
   "displayName": "Roller Rink",
-  "description": "Description",
-  "version": "0.0.1",
+  "description": "Roller rink is a theme that focuses on deep purples that contrast with a lot of bright colors. Perfect for late night coding.",
+  "repository": "https://github.com/KeaganAnd/roller-rink",
+  "version": "0.0.3",
+  "publisher": "KeaganKerm",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.100.0"
   },

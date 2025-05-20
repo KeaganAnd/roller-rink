@@ -1,4 +1,4 @@
 node_modules
 *.vsix
-.env
+*.env
 vsc-extension-quickstart.md
