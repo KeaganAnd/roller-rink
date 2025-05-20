@@ -1,0 +1,21 @@
+{
+  "name": "roller-rink",
+  "displayName": "Roller Rink",
+  "description": "Description",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Roller Rink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Roller Rink-color-theme.json"
+      }
+    ]
+  }
+}
